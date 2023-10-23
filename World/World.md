@@ -14,13 +14,19 @@ Hierdoor zijn er dan natuurlijk ook veel spanningen tussen de Veld en [[World#Du
 ### Free Territory Of Winfalia
 Een collectie van onafhankelijke steden/dorpen.
 
+Dit was oorspronkelijk een monarchie totdat de royale familie 40 jaar geleden overgooit werd.
+
 Elke Locatie heeft hun eigen 3 vertegenwoordigers in de "Raad van Winfalia". Al deze verschillende facties zorgt ervoor dat het moeilijk is cohesie te behouden in Winfalia. Buiten belastingen voor de staatskas en rekruten voor  het nationaal leger heeft elke factie praktisch complete controle over hun grondgebied. 
 
 De aard van hun samenleving maakt hun een doelwit voor andere staten die hun bereik willen uitbreiden, waaronder [[World#Duchy Of Midurth|Midurth]] en [[World#Sunhelm Empire|Sunhelm]]. 
 
 
 ### Brania
+
 ### Kingdom Of Magyrther
+Een monarchie en voornamelijk bevolkt door dragonborn.
+
+Zeer stabiel en zelfvoorzienend maar zeer xenophobisch. ze kijken actief neer op andere staten en rassen. De royale familie zelf zijn een lange lijn van gold dragons
 ### Sunhelm Empire
 ### Clifront
 ### Duchy Of Shrus
