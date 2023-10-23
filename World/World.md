@@ -28,6 +28,7 @@ Een monarchie en voornamelijk bevolkt door dragonborn en ge regeert door een gol
 
 Zeer stabiel en zelfvoorzienend maar zeer xenophobisch. ze kijken actief neer op andere staten en rassen. De royale familie zelf zijn een lange lijn van gold dragons. Drakes worden daar vaak gebruikt als werkdieren en transport. 
 ### Sunhelm Empire
+Een keizerrijk dat al bestaat sinds het begin van de  
 ### Clifront
 ### Duchy Of Shrus
 ### Dobeth

@@ -18,7 +18,7 @@
   "renderAllDice": false,
   "addToView": false,
   "renderTime": 2000,
-  "colorfulDice": false,
+  "colorfulDice": true,
   "scaler": 1,
   "diceColor": "#b026ba",
   "textColor": "#ff0000",
