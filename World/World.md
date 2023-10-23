@@ -17,6 +17,8 @@ Een collectie van onafhankelijke steden/dorpen.
 Elke Locatie heeft hun eigen 3 vertegenwoordigers in de "Raad van Winfalia". Al deze verschillende facties zorgt ervoor dat het moeilijk is cohesie te behouden in Winfalia. Buiten belastingen voor de staatskas en rekruten voor  het nationaal leger heeft elke factie praktisch complete controle over hun grondgebied. 
 
 De aard van hun samenleving maakt hun een doelwit voor andere staten die hun bereik willen uitbreiden, waaronder [[World#Duchy Of Midurth|Midurth]] en [[World#Sunhelm Empire|Sunhelm]]. 
+
+
 ### Brania
 ### Kingdom Of Magyrther
 ### Sunhelm Empire
