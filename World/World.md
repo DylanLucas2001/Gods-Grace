@@ -40,7 +40,9 @@ Een koninkrijk geregeerd door koning [[Sebastian Seaton]]
 De ligging heeft ervoor gezorgd dat ze de grootste zeevaart ontwikkeling hebben ondervonden.
 Hierdoor hebben ze hoge kwaliteit schepen, een grote militaire vloot en een bijna totale monopolie over de overzeese handel. Ook zijn ze befaamd voor hun vishandel. 
 ### Duchy Of Shrus
-Een hertogdominder controle van hertog [[]]
+Een hertogdom onder controle van hertog [[Clayton Exeter]].
+
+Relatief klein en een lage populatie maar extreem religieus. 
 ### Dobeth
 ### Republic Of Raule
 ### Grand Duchy Of Mythspelia
