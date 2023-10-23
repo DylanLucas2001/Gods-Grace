@@ -24,7 +24,7 @@ De aard van hun samenleving maakt hun een doelwit voor andere staten die hun ber
 ### Brania
 Brania is een koninkrijk geregeerd door [[Cordelia Sherriden]]
 
-Het is een militaire grootmacht en gekend voor hun hoge kwaliteit staal. 
+Het is een militaire grootmacht en gekend voor hun hoge kwaliteit staal. Hun grenzen zijn zwaar bewaakt en gecontroleerd 
 
 ### Kingdom Of Magyrther
 Een monarchie en voornamelijk bevolkt door dragonborn en ge regeert door een gold dragon genaamd [[Xerdantuss]].
