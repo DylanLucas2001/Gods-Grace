@@ -28,7 +28,9 @@ Een monarchie en voornamelijk bevolkt door dragonborn en ge regeert door een gol
 
 Zeer stabiel en zelfvoorzienend maar zeer xenophobisch. ze kijken actief neer op andere staten en rassen. De royale familie zelf zijn een lange lijn van gold dragons. Drakes worden daar vaak gebruikt als werkdieren en transport. 
 ### Sunhelm Empire
-Een keizerrijk dat al bestaat sinds het begin van de  [[Age Of God's Grace]]. En wordt al die tijd al bestuurd door dezelfde familie. De keizer neemt altijd de naam SunHelm op zicht en leeft meestal een 5 tal gene
+Een keizerrijk dat al bestaat sinds het begin van de  [[Age Of God's Grace]]. En wordt al die tijd al bestuurd door dezelfde familie van sorcerers. De keizer neemt altijd de naam en titel [[Keizer SunHelm]] op zicht en leeft meestal een 5 tal generaties in tegenstelling tot de rest van zijn familie. Na zijn dood wordt een nieuwe keizer gekozen uit de familie. meestal een van de jongere.
+
+Sunhelm staat in voorv 
 ### Clifront
 ### Duchy Of Shrus
 ### Dobeth
