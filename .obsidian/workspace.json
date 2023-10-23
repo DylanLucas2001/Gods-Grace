@@ -8,23 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "783b926156463d96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Players/Players.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7d1535bdaff3c46d",
             "type": "leaf",
             "state": {
               "type": "intiative-tracker-encounter-builder",
               "state": []
+            }
+          },
+          {
+            "id": "5ea7dc79c13f3030",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Players.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -186,8 +186,9 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "2acc0d6bb5945935",
+  "active": "5ea7dc79c13f3030",
   "lastOpenFiles": [
+    "Players/Players.md",
     "Nieuwe map",
     "Players/Fernweh - Wizard(Váli.md",
     "World/World.md",
