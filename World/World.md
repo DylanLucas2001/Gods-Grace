@@ -38,8 +38,10 @@ Sunhelm staat in voor vooruitgang en ontwikkeling van magie.
 Een koninkrijk geregeerd door koning [[Sebastian Seaton]] 
 
 De ligging heeft ervoor gezorgd dat ze de grootste zeevaart ontwikkeling hebben ondervonden.
-Hierdoor hebben ze hoge kwaliteit schepen, een grote militaire vloot en een bijna totale monopolie over de overzeese handel.
+Hierdoor hebben ze hoge kwaliteit schepen, een grote militaire vloot en een bijna totale monopolie over de overzeese handel. Ook zijn ze befaamd voor hun vishandel. 
 ### Duchy Of Shrus
+
+
 ### Dobeth
 ### Republic Of Raule
 ### Grand Duchy Of Mythspelia
