@@ -35,6 +35,7 @@ Een keizerrijk dat al bestaat sinds het begin van de  [[Age Of God's Grace]]. En
 
 Sunhelm staat in voor vooruitgang en ontwikkeling van magie.  
 ### Clifront
+Een koninkrijk geregeerd door koning 
 ### Duchy Of Shrus
 ### Dobeth
 ### Republic Of Raule
