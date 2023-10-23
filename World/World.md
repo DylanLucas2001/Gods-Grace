@@ -24,9 +24,9 @@ De aard van hun samenleving maakt hun een doelwit voor andere staten die hun ber
 ### Brania
 
 ### Kingdom Of Magyrther
-Een monarchie en voornamelijk bevolkt door dragonborn.
+Een monarchie en voornamelijk bevolkt door dragonborn en ge regeert door een gold dragon genaamd [[Xerdantuss]].
 
-Zeer stabiel en zelfvoorzienend maar zeer xenophobisch. ze kijken actief neer op andere staten en rassen. De royale familie zelf zijn een lange lijn van gold dragons
+Zeer stabiel en zelfvoorzienend maar zeer xenophobisch. ze kijken actief neer op andere staten en rassen. De royale familie zelf zijn een lange lijn van gold dragons. Drakes worden daar vaak gebruikt als werkdieren en transport. 
 ### Sunhelm Empire
 ### Clifront
 ### Duchy Of Shrus

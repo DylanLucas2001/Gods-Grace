@@ -21,6 +21,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "NPC's/Xerdantuss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8458f2bef269d6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "World/World.md",
                 "mode": "source",
                 "source": false
@@ -28,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,12 +199,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "5ea7dc79c13f3030",
+  "active": "8458f2bef269d6c9",
   "lastOpenFiles": [
+    "NPC's/Xerdantuss.md",
+    "World/World.md",
     "Players/Players.md",
     "Nieuwe map",
     "Players/Fernweh - Wizard(Váli.md",
-    "World/World.md",
     "NPC's/Veld Randulfus.md",
     "Artus Randulfus.md",
     "NPC's/Artus Randulfus.md",
