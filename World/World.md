@@ -35,7 +35,10 @@ Een keizerrijk dat al bestaat sinds het begin van de  [[Age Of God's Grace]]. En
 
 Sunhelm staat in voor vooruitgang en ontwikkeling van magie.  
 ### Clifront
-Een koninkrijk geregeerd door koning 
+Een koninkrijk geregeerd door koning [[Sebastian Seaton]] 
+
+De ligging heeft ervoor gezorgd dat ze de grootste zeevaart ontwikkeling hebben ondervonden.
+Hierdoor hebben ze hoge kwaliteit schepen, een grote militaire vloot en een bijna totale monopolie over de overzeese handel.
 ### Duchy Of Shrus
 ### Dobeth
 ### Republic Of Raule
