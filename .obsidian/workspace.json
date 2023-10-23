@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "World/World.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "78e2edeefbdcc1d6",
