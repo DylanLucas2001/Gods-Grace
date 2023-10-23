@@ -46,7 +46,7 @@ Relatief klein en een lage populatie maar extreem religieus. Een sterke economie
 
 ze hebben goede relaties met Nogor en Dobeth
 ### Dobeth
-
+Dobeth is een theocracie ge
 ### Republic Of Raule
 ### Grand Duchy Of Mythspelia
 ### Principality Of Nogor
