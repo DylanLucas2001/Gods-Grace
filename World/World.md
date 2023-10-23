@@ -42,8 +42,11 @@ Hierdoor hebben ze hoge kwaliteit schepen, een grote militaire vloot en een bijn
 ### Duchy Of Shrus
 Een hertogdom onder controle van hertog [[Clayton Exeter]].
 
-Relatief klein en een lage populatie maar extreem religieus. 
+Relatief klein en een lage populatie maar extreem religieus. Een sterke economie voor hun formaat wegens de grote export van marmer en andere waardevolle gesteenten. Ze houden strikte controle over de Ojesh rivier waardoor ze controle hebben over de inlandse zee.
+
+ze hebben goede relaties met Nogor en Dobeth
 ### Dobeth
+
 ### Republic Of Raule
 ### Grand Duchy Of Mythspelia
 ### Principality Of Nogor
