@@ -11,8 +11,12 @@
             "id": "783b926156463d96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Players/Players.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Players/Players.md"
+              }
             }
           }
         ]
@@ -139,5 +147,14 @@
     }
   },
   "active": "783b926156463d96",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Players/Fernweh - Wizard(Váli.md",
+    "World/World.md",
+    "NPC's/Veld Randulfus.md",
+    "Artus Randulfus.md",
+    "NPC's/Artus Randulfus.md",
+    "NPC's/Victoria Randulfus.md",
+    "NPC's/Alanus Randulfus.md",
+    "NPC's/NPC's.md"
+  ]
 }
