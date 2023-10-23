@@ -22,6 +22,9 @@ De aard van hun samenleving maakt hun een doelwit voor andere staten die hun ber
 
 
 ### Brania
+Brania is een koninkrijk geregeerd door [[Cordelia Sherriden]]
+
+Het is een militaire grootmacht en gekend voor hun hoge kwaliteit staal. 
 
 ### Kingdom Of Magyrther
 Een monarchie en voornamelijk bevolkt door dragonborn en ge regeert door een gold dragon genaamd [[Xerdantuss]].
@@ -30,7 +33,7 @@ Zeer stabiel en zelfvoorzienend maar zeer xenophobisch. ze kijken actief neer op
 ### Sunhelm Empire
 Een keizerrijk dat al bestaat sinds het begin van de  [[Age Of God's Grace]]. En wordt al die tijd al bestuurd door dezelfde familie van sorcerers. De keizer neemt altijd de naam en titel [[Keizer SunHelm]] op zicht en leeft meestal een 5 tal generaties in tegenstelling tot de rest van zijn familie. Na zijn dood wordt een nieuwe keizer gekozen uit de familie. meestal een van de jongere.
 
-Sunhelm staat in voorv 
+Sunhelm staat in voor vooruitgang en ontwikkeling van magie.  
 ### Clifront
 ### Duchy Of Shrus
 ### Dobeth
