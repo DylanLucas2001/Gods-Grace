@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "World/World.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -167,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "78e2edeefbdcc1d6",
@@ -201,8 +201,9 @@
   },
   "active": "8458f2bef269d6c9",
   "lastOpenFiles": [
-    "NPC's/Clayton Exeter.md",
+    "NPC's/Asema Hunt.md",
     "World/World.md",
+    "NPC's/Clayton Exeter.md",
     "NPC's/Sebastian Seaton.md",
     "NPC's/Cordelia Sherriden.md",
     "NPC's/Keizer SunHelm.md",
