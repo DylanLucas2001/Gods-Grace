@@ -50,9 +50,12 @@ Dobeth is een theocracie onder controle van een raad van 5 archpriests. Ookal on
 ### Republic Of Raule
 Een republiek met als staatshoofd [[Asema Hunt]].
 
-Is 23 jaar geleden onafhankelijk geworden en heeft 3 presidenten gehad in die periode. dor de relatief recente verandering is er nogsteeds veel onrust en er zijn facties die nogsteeds de monarchie steunen
+Is 23 jaar geleden onafhankelijk geworden en heeft 3 presidenten gehad in die periode. Door de relatief recente verandering is er nog steeds veel onrust en er zijn facties die de monarchie steunen. Raule is relatief onderontwikkeld wegens de mismanagement van hun eerdere royale familie.
 ### Grand Duchy Of Mythspelia
-### Principality Of Nogor
+Een hertogdom onder  Duke [[Petrik Vixen]] (Een vampier).
+Vixen gebruikt een ongekende magie die ervoor zorgt dat de zon constant geblokkeerd is door wolken. Dit maakt het een paradijs voor vampiers en andere nachtdalers. Die worden wel allemaal gezien als inwoners en zijn onder de bescherming van Vixen. Ook al niet super veilig, er wonen ook veel gewone rassen. Door de zon blokkerende magie groeit er niet veel wat landbouw onmogelijk maakt. Dit maakt Mythspelia erg afhankelijk van handel voor voeding. 
+### Republic Of Nogor
+
 ### Ethian Empire
 ### Fharein Commonwealth
 ### Darn Moldir
