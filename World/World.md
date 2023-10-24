@@ -46,9 +46,10 @@ Relatief klein en een lage populatie maar extreem religieus. Een sterke economie
 
 ze hebben goede relaties met Nogor en Dobeth
 ### Dobeth
-Dobeth is een theocracie onder controle van een raad van 5 archpriests. Ookal ontzettend vriendelijk zijn ze extreem strict over hun wetgeving(gedicteerd door hun heilig boek de Codex Nobilitatis). 
+Dobeth is een theocracie onder controle van een raad van 5 archpriests. Ookal ontzettend vriendelijk zijn ze extreem strict over hun wetgeving(gedicteerd door hun heilig boek de Codex Nobilitatis). Ze hebben slechte relaties met [[World#Darn Moldir | Darn Moldir]] en [[World#Sunhelm Empire|Sunhelm]] wegens hun zwaar gebruik van magie.  
 ### Republic Of Raule
 ### Grand Duchy Of Mythspelia
 ### Principality Of Nogor
 ### Ethian Empire
 ### Fharein Commonwealth
+### Darn Moldir
