@@ -63,7 +63,7 @@ Ook al is het verassend stabiel er zijn veel spanningen aangezien de ork stammen
 ### Ethian Empire
 Een rijk met 2 koningen. Altijd een magier en een krijger. 
 
-Deze warrior/scholar verhouding zorgt dat alle beslissingen 
+Deze warrior/scholar verhouding zorgt dat alle beslissingen optimaal zijn vanuit bijde 
 
 ### Fharein Commonwealth
 Een democratie geleid door een parlement.
