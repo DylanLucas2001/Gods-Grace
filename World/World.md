@@ -64,5 +64,8 @@ Ook al is het verassend stabiel er zijn veel spanningen aangezien de ork stammen
 
 
 ### Fharein Commonwealth
+Een democratie geleid door een parlement.
+
+Is omsingeld door onvriendelijke staten([[World#Ethian Empire|Ethian Empire]] en [[World#My]]) waardoor handel en diplomatie moeilijk zijn. 
 ### Darn Moldir
-Een dwergen stad staat die een enorme hoeveelheid grondstoffen produceert en
+Een dwergen stad staat die een enorme hoeveelheid grondstoffen produceert en verantwoordelijk is voor de meeste van de geavanceerde technologie. 
