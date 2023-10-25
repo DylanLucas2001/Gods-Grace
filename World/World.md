@@ -65,4 +65,4 @@ Ook al is het verassend stabiel er zijn veel spanningen aangezien de ork stammen
 
 ### Fharein Commonwealth
 ### Darn Moldir
-Een dwergen stad staat die
+Een dwergen stad staat die een enorme hoeveelheid grondstoffen produceert en
