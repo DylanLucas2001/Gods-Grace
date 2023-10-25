@@ -61,11 +61,13 @@ Nogor is een poging tot democratie van de orks(en half orks).
 Ook al is het verassend stabiel er zijn veel spanningen aangezien de ork stammen niet zomaar meer mogen plunderen etc. Andere rassen werken er wel maar meestal in toestanden die net op het randje van slavernij vallen.
 
 ### Ethian Empire
+Een rijk met 2 koningen. Altijd een magier en een krijger. 
 
+Deze
 
 ### Fharein Commonwealth
 Een democratie geleid door een parlement.
 
-Is omsingeld door onvriendelijke staten([[World#Ethian Empire|Ethian Empire]] en [[World#My]]) waardoor handel en diplomatie moeilijk zijn. 
+Is omsingeld door onvriendelijke staten([[World#Ethian Empire|Ethian Empire]] en [[World#Grand Duchy Of Mythspelia|Mythspelia]]) waardoor handel en diplomatie moeilijk zijn. 
 ### Darn Moldir
 Een dwergen stad staat die een enorme hoeveelheid grondstoffen produceert en verantwoordelijk is voor de meeste van de geavanceerde technologie. 
