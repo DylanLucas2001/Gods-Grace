@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/World.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -201,11 +201,11 @@
   },
   "active": "8458f2bef269d6c9",
   "lastOpenFiles": [
+    "World/World.md",
     "Azgaar.png",
     "NPC's/Petrik Vixen.md",
     "NPC's/Asema Hunt.md",
     "NPC's/Clayton Exeter.md",
-    "World/World.md",
     "NPC's/Sebastian Seaton.md",
     "NPC's/Cordelia Sherriden.md",
     "NPC's/Keizer SunHelm.md",

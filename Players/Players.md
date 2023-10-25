@@ -4,4 +4,9 @@
 type: folder_brief_live
 ```
  
-`dice: 1d12+2`
+Yaseen: 
+name: Greed
+race: custom construct
+
+name: Thermin
+Race: Lo
