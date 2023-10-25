@@ -56,7 +56,7 @@ Een hertogdom onder  Duke [[Petrik Vixen]] (Een vampier).
 Vixen gebruikt een ongekende magie die ervoor zorgt dat de zon constant geblokkeerd is door wolken. Dit maakt het een paradijs voor vampiers en andere nachtdalers. Die worden wel allemaal gezien als inwoners en zijn onder de bescherming van Vixen. Ook al niet super veilig, er wonen ook veel gewone rassen. Door de zon blokkerende magie groeit er niet veel wat landbouw onmogelijk maakt. Dit maakt Mythspelia erg afhankelijk van handel voor voeding. 
 ### Republic Of Nogor
 
-
+Nogor is een poging tot democratie van de orks(en half orks). 
 
 ### Ethian Empire
 ### Fharein Commonwealth
