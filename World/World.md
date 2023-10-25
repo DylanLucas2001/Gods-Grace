@@ -58,9 +58,11 @@ Vixen gebruikt een ongekende magie die ervoor zorgt dat de zon constant geblokke
 
 Nogor is een poging tot democratie van de orks(en half orks).
 
-Ook al is het verassend stabiel er zijn veel spanningen aangezien de ork stammen niet zomaar meer mogen plunderen etc. 
+Ook al is het verassend stabiel er zijn veel spanningen aangezien de ork stammen niet zomaar meer mogen plunderen etc. Andere rassen werken er wel maar meestal in toestanden die net op het randje van slavernij vallen.
 
 ### Ethian Empire
+
+
 ### Fharein Commonwealth
 ### Darn Moldir
 Een dwergen stad staat die
