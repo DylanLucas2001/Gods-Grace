@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plot/Session 1 Start.md",
+                "file": "Players/Greed.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 1 Start.md",
+                "file": "Players/Greed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 1 Start.md",
+                "file": "Players/Greed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 1 Start.md"
+                "file": "Players/Greed.md"
               }
             }
           },
@@ -242,10 +242,11 @@
   },
   "active": "8458f2bef269d6c9",
   "lastOpenFiles": [
-    "Pasted image 20231025115748.png",
-    "Plot/Session 1 Start.md",
-    "Plot/Age Of God's Grace.md",
     "Players/Players.md",
+    "Players/Greed.md",
+    "Plot/Session 1 Start.md",
+    "Pasted image 20231025115748.png",
+    "Plot/Age Of God's Grace.md",
     "NPC's/Xerdantuss.md",
     "World/World.md",
     "Azgaar.png",
