@@ -1,6 +1,15 @@
 {
   "players": [],
-  "parties": [],
+  "parties": [
+    {
+      "name": "Marben",
+      "players": []
+    },
+    {
+      "name": "Fernweh",
+      "players": []
+    }
+  ],
   "defaultParty": null,
   "statuses": [
     {
