@@ -150,7 +150,7 @@
       {
         "id": "54f1e8a7e2a1f018",
         "type": "tabs",
-        "dimension": 28.557692307692307,
+        "dimension": 56.82692307692307,
         "children": [
           {
             "id": "d13a2c3828355a61",
@@ -224,7 +224,7 @@
       {
         "id": "78e2edeefbdcc1d6",
         "type": "tabs",
-        "dimension": 71.4423076923077,
+        "dimension": 43.17307692307693,
         "children": [
           {
             "id": "2acc0d6bb5945935",
@@ -252,7 +252,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8458f2bef269d6c9",
+  "active": "2418643e17c1d27f",
   "lastOpenFiles": [
     "World/World.md",
     "Players/Players.md",
