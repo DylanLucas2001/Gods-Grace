@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d1535bdaff3c46d",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": []
-            }
-          },
-          {
-            "id": "5ea7dc79c13f3030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Xerdantuss.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8458f2bef269d6c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 1 Start.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 1 Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 1 Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Players.md"
+                "file": "Plot/Session 1 Start.md"
               }
             }
           },
@@ -201,6 +180,10 @@
   },
   "active": "8458f2bef269d6c9",
   "lastOpenFiles": [
+    "Plot/Age Of God's Grace.md",
+    "Players/Players.md",
+    "NPC's/Xerdantuss.md",
+    "Pasted image 20231025115748.png",
     "World/World.md",
     "Azgaar.png",
     "NPC's/Petrik Vixen.md",
@@ -209,9 +192,6 @@
     "NPC's/Sebastian Seaton.md",
     "NPC's/Cordelia Sherriden.md",
     "NPC's/Keizer SunHelm.md",
-    "Plot/Age Of God's Grace.md",
-    "NPC's/Xerdantuss.md",
-    "Players/Players.md",
     "Nieuwe map",
     "Players/Fernweh - Wizard(Váli.md",
     "NPC's/Veld Randulfus.md",
