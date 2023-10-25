@@ -1,4 +1,4 @@
-![[Charcyia 2023-10-17-09-18.png]]
+![[Azgaar.png]]
 ### Duchy Of Midurth
 een hertogdom onder leiding van [[Alanus Randulfus | Grand Duke Alanus Randulfus]] en [[Victoria Randulfus | Grand Duchess Victoria Randulfus]]
 
@@ -63,7 +63,7 @@ Ook al is het verassend stabiel er zijn veel spanningen aangezien de ork stammen
 ### Ethian Empire
 Een rijk met 2 koningen. Altijd een magier en een krijger. 
 
-Deze warrior/scholar verhouding zorgt dat alle beslissingen optimaal zijn vanuit bijde 
+Deze warrior/scholar verhouding zorgt dat alle beslissingen optimaal zijn vanuit beide standpunten. Iedere inwooner heeft een verplichte 5 jaar militaire service wanneer ze volwassen worden(afhankelijk van ras)
 
 ### Fharein Commonwealth
 Een democratie geleid door een parlement.
