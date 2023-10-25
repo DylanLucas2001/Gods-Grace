@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Greed.md",
+                "file": "Players/Players.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,21 @@
                 ]
               ]
             }
+          },
+          {
+            "id": "67fd85cbc921652c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Greed.md",
+                "file": "World/World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Greed.md",
+                "file": "World/World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Greed.md"
+                "file": "World/World.md"
               }
             }
           },
@@ -240,7 +253,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8458f2bef269d6c9",
+  "active": "67fd85cbc921652c",
   "lastOpenFiles": [
     "Players/Players.md",
     "Players/Greed.md",
