@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/World.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -239,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 762.5
+    "width": 463.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,15 +252,15 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "67fd85cbc921652c",
+  "active": "8458f2bef269d6c9",
   "lastOpenFiles": [
+    "World/World.md",
     "Players/Players.md",
     "Players/Greed.md",
     "Plot/Session 1 Start.md",
     "Pasted image 20231025115748.png",
     "Plot/Age Of God's Grace.md",
     "NPC's/Xerdantuss.md",
-    "World/World.md",
     "Azgaar.png",
     "NPC's/Petrik Vixen.md",
     "NPC's/Asema Hunt.md",
