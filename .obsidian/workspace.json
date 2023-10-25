@@ -18,8 +18,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "da4b35850925fb1c",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Zombie",
+                    "size": "Medium",
+                    "type": "undead",
+                    "subtype": "",
+                    "alignment": "neutral evil",
+                    "ac": 8,
+                    "hp": 22,
+                    "hit_dice": "3d8 + 8",
+                    "speed": "20 ft.",
+                    "stats": [
+                      13,
+                      6,
+                      16,
+                      3,
+                      6,
+                      5
+                    ],
+                    "saves": [
+                      {
+                        "wisdom": 0
+                      }
+                    ],
+                    "damage_vulnerabilities": "",
+                    "damage_resistances": "",
+                    "damage_immunities": "",
+                    "condition_immunities": "poisoned",
+                    "senses": "darkvision 60 ft., passive Perception 8",
+                    "languages": "understands all languages it spoke in life but can't speak",
+                    "cr": "1/4",
+                    "bestiary": true,
+                    "traits": [
+                      {
+                        "name": "Undead Fortitude",
+                        "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+                        "attack_bonus": 0
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Slam",
+                        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.",
+                        "attack_bonus": 3,
+                        "damage_dice": "1d6",
+                        "damage_bonus": 1
+                      }
+                    ]
+                  },
+                  1
+                ]
+              ]
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,6 +139,7 @@
       {
         "id": "54f1e8a7e2a1f018",
         "type": "tabs",
+        "dimension": 28.557692307692307,
         "children": [
           {
             "id": "d13a2c3828355a61",
@@ -151,6 +213,7 @@
       {
         "id": "78e2edeefbdcc1d6",
         "type": "tabs",
+        "dimension": 71.4423076923077,
         "children": [
           {
             "id": "2acc0d6bb5945935",
@@ -164,7 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 762.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,7 +241,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8458f2bef269d6c9",
+  "active": "da4b35850925fb1c",
   "lastOpenFiles": [
     "Plot/Age Of God's Grace.md",
     "Players/Players.md",
