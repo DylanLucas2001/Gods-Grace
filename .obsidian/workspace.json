@@ -11,11 +11,9 @@
             "id": "8458f2bef269d6c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Plot/Session 1 Start.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20231025115748.png"
               }
             }
           },
@@ -79,8 +77,7 @@
               ]
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 1 Start.md",
+                "file": "Pasted image 20231025115748.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 1 Start.md",
+                "file": "Pasted image 20231025115748.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 1 Start.md"
+                "file": "Pasted image 20231025115748.png"
               }
             }
           },
@@ -241,8 +238,9 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "da4b35850925fb1c",
+  "active": "8458f2bef269d6c9",
   "lastOpenFiles": [
+    "Plot/Session 1 Start.md",
     "Plot/Age Of God's Grace.md",
     "Players/Players.md",
     "NPC's/Xerdantuss.md",
