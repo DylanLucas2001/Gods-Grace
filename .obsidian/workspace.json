@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/World.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -180,12 +180,12 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
+    "World/World.md",
     "Players/Greed.md",
     "Pasted image 20231025115748.png",
     "Azgaar.png",
     "NPC's/Xerdantuss.md",
     "NPC's/Petrik Vixen.md",
-    "World/World.md",
     "NPC's/Asema Hunt.md",
     "NPC's/Clayton Exeter.md",
     "NPC's/Sebastian Seaton.md",
