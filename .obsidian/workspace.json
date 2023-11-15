@@ -78,9 +78,21 @@
                 ]
               ]
             }
+          },
+          {
+            "id": "17d2e4ee081f3dee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Players.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/World.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -241,14 +253,14 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "24d9826b064100bf",
+  "active": "17d2e4ee081f3dee",
   "lastOpenFiles": [
+    "World/World.md",
     "Players/Greed.md",
     "Pasted image 20231025115748.png",
     "Azgaar.png",
     "NPC's/Xerdantuss.md",
     "NPC's/Petrik Vixen.md",
-    "World/World.md",
     "NPC's/Asema Hunt.md",
     "NPC's/Clayton Exeter.md",
     "NPC's/Sebastian Seaton.md",
