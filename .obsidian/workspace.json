@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
+                "file": "World/Countries/Countries.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
+                "file": "World/Countries/Countries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
+                "file": "World/Countries/Countries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md"
+                "file": "World/Countries/Countries.md"
               }
             }
           },
@@ -194,7 +194,15 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
+    "World/Countries/Republic Of Raule/Republic Of Raule.md",
     "World/Countries/Countries.md",
+    "World/Countries/Republic Of Raule",
+    "World/Countries/Dobeth/Dobeth.md",
+    "World/Countries/Dobeth",
+    "World/Countries/Duchy Of Shrus/Duchy Of Shrus.md",
+    "World/Countries/Duchy Of Shrus",
+    "World/Countries/Clifront/Clifront.md",
+    "World/Countries/Clifront",
     "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
     "World/Countries/Sunhelm Empire",
     "World/Countries/Kingdom Of Magyrther/Kingdom Of Magyrther.md",
@@ -211,9 +219,6 @@
     "World/Country Types.md",
     "Players/Players.md",
     "Players/Ortwin - Marben (rogue).md",
-    "World/Untitled",
-    "World/Countries",
-    "Dungeons",
     "Players/Bo - Alya (Barbarian).md",
     "Players/Robbe - Damu (Monk).md",
     "Players/Yaseen- Greed(Warforged).md",
@@ -221,16 +226,11 @@
     "Homebrew/Field Healing.md",
     "Players/Váli - Fernweh(Wizard).md",
     "tijdelijke notes.md",
-    "Homebrew",
     "Pasted image 20231025115748.png",
     "Azgaar.png",
     "NPC's/Xerdantuss.md",
     "NPC's/Petrik Vixen.md",
     "NPC's/Asema Hunt.md",
-    "NPC's/Clayton Exeter.md",
-    "NPC's/Sebastian Seaton.md",
-    "NPC's/Cordelia Sherriden.md",
-    "NPC's/Keizer SunHelm.md",
-    "Plot/Age Of God's Grace.md"
+    "NPC's/Clayton Exeter.md"
   ]
 }

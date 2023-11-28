@@ -40,20 +40,20 @@ Zeer stabiel en zelfvoorzienend maar zeer xenophobisch. ze kijken actief neer op
 Een keizerrijk dat al bestaat sinds het begin van de  [[Age Of God's Grace]]. En wordt al die tijd al bestuurd door dezelfde familie van sorcerers. De keizer neemt altijd de naam en titel [[Keizer SunHelm]] op zicht en leeft meestal een 5 tal generaties in tegenstelling tot de rest van zijn familie. Na zijn dood wordt een nieuwe keizer gekozen uit de familie. meestal een van de jongere.
 
 Sunhelm staat in voor vooruitgang en ontwikkeling van magie.  
-### Clifront
+### [[Clifront]]
 Een koninkrijk geregeerd door koning [[Sebastian Seaton]] 
 
 De ligging heeft ervoor gezorgd dat ze de grootste zeevaart ontwikkeling hebben ondervonden.
 Hierdoor hebben ze hoge kwaliteit schepen, een grote militaire vloot en een bijna totale monopolie over de overzeese handel. Ook zijn ze befaamd voor hun vishandel. 
-### Duchy Of Shrus
+### [[Duchy Of Shrus]]
 Een hertogdom onder controle van hertog [[Clayton Exeter]].
 
 Relatief klein en een lage populatie maar extreem religieus. Een sterke economie voor hun formaat wegens de grote export van marmer en andere waardevolle gesteenten. Ze houden strikte controle over de Ojesh rivier waardoor ze controle hebben over de inlandse zee.
 
 ze hebben goede relaties met Nogor en Dobeth
-### Dobeth
+### [[Dobeth]]
 Dobeth is een theocracie onder controle van een raad van 5 archpriests. Ookal ontzettend vriendelijk zijn ze extreem strict over hun wetgeving(gedicteerd door hun heilig boek de Codex Nobilitatis). Ze hebben slechte relaties met [[World#Darn Moldir | Darn Moldir]] en [[World#Sunhelm Empire|Sunhelm]] wegens hun zwaar gebruik van magie.  
-### Republic Of Raule
+### [[Republic Of Raule]]
 Een republiek met als staatshoofd [[Asema Hunt]].
 
 Is 23 jaar geleden onafhankelijk geworden en heeft 3 presidenten gehad in die periode. Door de relatief recente verandering is er nog steeds veel onrust en er zijn facties die de monarchie steunen. Raule is relatief onderontwikkeld wegens de mismanagement van hun eerdere royale familie.
