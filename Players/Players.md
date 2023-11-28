@@ -3,7 +3,7 @@
 ```ccard
 type: folder_brief_live
 ```
- ![[Pasted image 20231025115748.png]]
+ 
 Yaseen: 
 name: Greed
 race: custom construct
