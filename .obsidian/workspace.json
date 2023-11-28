@@ -13,80 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World.md",
+                "file": "Players/Players.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24d9826b064100bf",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Zombie",
-                    "size": "Medium",
-                    "type": "undead",
-                    "subtype": "",
-                    "alignment": "neutral evil",
-                    "ac": 8,
-                    "hp": 22,
-                    "hit_dice": "3d8 + 8",
-                    "speed": "20 ft.",
-                    "stats": [
-                      13,
-                      6,
-                      16,
-                      3,
-                      6,
-                      5
-                    ],
-                    "saves": [
-                      {
-                        "wisdom": 0
-                      }
-                    ],
-                    "damage_vulnerabilities": "",
-                    "damage_resistances": "",
-                    "damage_immunities": "",
-                    "condition_immunities": "poisoned",
-                    "senses": "darkvision 60 ft., passive Perception 8",
-                    "languages": "understands all languages it spoke in life but can't speak",
-                    "cr": "1/4",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Undead Fortitude",
-                        "desc": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
-                        "attack_bonus": 0
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Slam",
-                        "desc": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.",
-                        "attack_bonus": 3,
-                        "damage_dice": "1d6",
-                        "damage_bonus": 1
-                      }
-                    ]
-                  },
-                  1
-                ]
-              ]
-            }
-          },
-          {
-            "id": "17d2e4ee081f3dee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Homebrew/Field Healing.md",
-                "mode": "source",
                 "source": false
               }
             }
@@ -97,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Players/Robbe - Damu (Monk).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Players/Robbe - Damu (Monk).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Players/Robbe - Damu (Monk).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Players.md"
+                "file": "Players/Robbe - Damu (Monk).md"
               }
             }
           },
@@ -267,14 +195,15 @@
   },
   "active": "663ee73aa6937aaf",
   "lastOpenFiles": [
-    "Players/Untitled.md",
+    "Players/Yaseen- Greed(Warforged).md",
+    "Players/Robbe - Damu (Monk).md",
     "Players/Players.md",
-    "Players/Greed - Warforged(Yaseen).md",
-    "Players/Fernweh - Wizard(Váli).md",
-    "tijdelijke notes.md",
-    "Homebrew/Field Healing.md",
-    "Homebrew",
+    "Players/Dries - Thormin (Bard).md",
     "World/World.md",
+    "Homebrew/Field Healing.md",
+    "Players/Váli - Fernweh(Wizard).md",
+    "tijdelijke notes.md",
+    "Homebrew",
     "Pasted image 20231025115748.png",
     "Azgaar.png",
     "NPC's/Xerdantuss.md",
