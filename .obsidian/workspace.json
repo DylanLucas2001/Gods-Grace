@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/World.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a159dd90d5a9a17e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plot/Session 3/Session 3.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 3/Session 3.md"
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md"
               }
             }
           },
@@ -192,10 +205,14 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "69522ab9573fb661",
+  "active": "663ee73aa6937aaf",
   "lastOpenFiles": [
-    "Plot/Session 3/Session 3 start.md",
+    "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
+    "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
     "Plot/Session 3/Session 3.md",
+    "World/World.md",
+    "World/Countries/Free Territory Of Winfalia/Burgs",
+    "Plot/Session 3/Session 3 start.md",
     "Plot/Session 3",
     "World/Countries/Countries.md",
     "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
@@ -221,15 +238,11 @@
     "World/Countries/Republic Of Raule",
     "World/Countries/Dobeth",
     "World/Countries/Duchy Of Shrus",
-    "World/Countries/Clifront",
-    "World/World.md",
     "World/Country Types.md",
     "Players/Players.md",
     "Players/Ortwin - Marben (rogue).md",
     "Players/Bo - Alya (Barbarian).md",
     "Players/Robbe - Damu (Monk).md",
-    "Players/Yaseen- Greed(Warforged).md",
-    "Players/Dries - Thormin (Bard).md",
     "Pasted image 20231025115748.png",
     "Azgaar.png"
   ]

@@ -1,1 +1,1 @@
-Sessie begint op het vliegend schip dat gerashed is op het strand van Winfalia
+Sessie begint op het vliegend schip dat gerashed is op het strand van Winfalia, In de buurt van [[Drater]]
