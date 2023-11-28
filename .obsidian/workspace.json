@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tijdelijke notes.md",
+                "file": "Players/Players.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tijdelijke notes.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tijdelijke notes.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tijdelijke notes.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -267,12 +267,14 @@
   },
   "active": "663ee73aa6937aaf",
   "lastOpenFiles": [
-    "Homebrew/Field Healing.md",
-    "tijdelijke notes.md",
+    "Players/Untitled.md",
     "Players/Players.md",
+    "Players/Greed - Warforged(Yaseen).md",
+    "Players/Fernweh - Wizard(Váli).md",
+    "tijdelijke notes.md",
+    "Homebrew/Field Healing.md",
     "Homebrew",
     "World/World.md",
-    "Players/Greed.md",
     "Pasted image 20231025115748.png",
     "Azgaar.png",
     "NPC's/Xerdantuss.md",
@@ -284,7 +286,6 @@
     "NPC's/Keizer SunHelm.md",
     "Plot/Age Of God's Grace.md",
     "Nieuwe map",
-    "Players/Fernweh - Wizard(Váli.md",
     "NPC's/Veld Randulfus.md",
     "Artus Randulfus.md",
     "NPC's/Artus Randulfus.md",
