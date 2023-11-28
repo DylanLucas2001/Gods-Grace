@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
-                "mode": "preview",
+                "file": "World/Countries/Countries.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Ortwin - Marben (rogue).md",
+                "file": "World/World.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Ortwin - Marben (rogue).md",
+                "file": "World/World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Ortwin - Marben (rogue).md",
+                "file": "World/World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Ortwin - Marben (rogue).md"
+                "file": "World/World.md"
               }
             }
           },
@@ -195,13 +195,18 @@
   },
   "active": "663ee73aa6937aaf",
   "lastOpenFiles": [
+    "World/Countries/Countries.md",
+    "World/World.md",
+    "World/Country Types.md",
     "Players/Players.md",
     "Players/Ortwin - Marben (rogue).md",
+    "World/Untitled",
+    "World/Countries",
+    "Dungeons",
     "Players/Bo - Alya (Barbarian).md",
     "Players/Robbe - Damu (Monk).md",
     "Players/Yaseen- Greed(Warforged).md",
     "Players/Dries - Thormin (Bard).md",
-    "World/World.md",
     "Homebrew/Field Healing.md",
     "Players/Váli - Fernweh(Wizard).md",
     "tijdelijke notes.md",
