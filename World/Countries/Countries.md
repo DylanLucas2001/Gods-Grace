@@ -12,3 +12,10 @@ type: folder_brief_live
 ### Sunhelm Empire
 ### Clifront
 ### Duchy Of Shrus
+### Dobeth
+### Republic Of Raule
+### Grand Duchy Of Mythspelia
+### Republic Of Nogor
+### Ethian Empire
+### Fharein Commonwealth
+### Darn Moldir

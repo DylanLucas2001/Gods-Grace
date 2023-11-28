@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/World.md",
+                "file": "World/Countries/Countries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/World.md",
+                "file": "World/Countries/Countries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/World.md"
+                "file": "World/Countries/Countries.md"
               }
             }
           },
@@ -193,10 +192,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "663ee73aa6937aaf",
+  "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "World/Countries/Countries.md",
     "World/World.md",
+    "World/Countries/Countries.md",
     "World/Country Types.md",
     "Players/Players.md",
     "Players/Ortwin - Marben (rogue).md",
