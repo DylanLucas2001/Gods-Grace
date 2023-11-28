@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Countries/Countries.md",
+                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Countries/Countries.md",
+                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Countries/Countries.md",
+                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Countries/Countries.md"
+                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md"
               }
             }
           },
@@ -194,8 +194,20 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "World/World.md",
     "World/Countries/Countries.md",
+    "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
+    "World/Countries/Sunhelm Empire",
+    "World/Countries/Kingdom Of Magyrther/Kingdom Of Magyrther.md",
+    "World/Countries/Kingdom Of Magyrther",
+    "World/Countries/Brania/Brania.md",
+    "World/Countries/Brania",
+    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
+    "World/Countries/Free Territory Of Winfalia",
+    "World/Countries/Principality Of Veld/Principality Of Veld.md",
+    "World/Countries/Principality Of Veld",
+    "World/Countries/Dutchy Of Midurth/Dutchy Of Midurth.md",
+    "World/Countries/Dutchy Of Midurth",
+    "World/World.md",
     "World/Country Types.md",
     "Players/Players.md",
     "Players/Ortwin - Marben (rogue).md",
@@ -219,13 +231,6 @@
     "NPC's/Sebastian Seaton.md",
     "NPC's/Cordelia Sherriden.md",
     "NPC's/Keizer SunHelm.md",
-    "Plot/Age Of God's Grace.md",
-    "Nieuwe map",
-    "NPC's/Veld Randulfus.md",
-    "Artus Randulfus.md",
-    "NPC's/Artus Randulfus.md",
-    "NPC's/Victoria Randulfus.md",
-    "NPC's/Alanus Randulfus.md",
-    "NPC's/NPC's.md"
+    "Plot/Age Of God's Grace.md"
   ]
 }
