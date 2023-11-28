@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Countries/Countries.md",
+                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Countries/Countries.md",
+                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Countries/Countries.md",
+                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Countries/Countries.md"
+                "file": "World/Countries/Sunhelm Empire/Sunhelm Empire.md"
               }
             }
           },
@@ -195,26 +195,29 @@
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
     "World/Countries/Republic Of Raule/Republic Of Raule.md",
-    "World/Countries/Countries.md",
-    "World/Countries/Republic Of Raule",
-    "World/Countries/Dobeth/Dobeth.md",
-    "World/Countries/Dobeth",
+    "World/Countries/Republic Of Nogor/Republic Of Nogor.md",
+    "World/Countries/Principality Of Veld/Principality Of Veld.md",
+    "World/Countries/Kingdom Of Magyrther/Kingdom Of Magyrther.md",
+    "World/Countries/Grand Duchy Of Mythspelia/Grand Duchy Of Mythspelia.md",
+    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
+    "World/Countries/Ethian Empire/Ethian Empire.md",
+    "World/Countries/Dutchy Of Midurth/Dutchy Of Midurth.md",
     "World/Countries/Duchy Of Shrus/Duchy Of Shrus.md",
-    "World/Countries/Duchy Of Shrus",
+    "World/Countries/Dobeth/Dobeth.md",
     "World/Countries/Clifront/Clifront.md",
+    "World/Countries/Brania/Brania.md",
+    "World/Countries/Countries.md",
+    "World/Countries/Ethian Empire",
+    "World/Countries/Republic Of Nogor",
+    "World/Countries/Grand Duchy Of Mythspelia",
+    "World/Countries/Republic Of Raule",
+    "World/Countries/Dobeth",
+    "World/Countries/Duchy Of Shrus",
     "World/Countries/Clifront",
     "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
     "World/Countries/Sunhelm Empire",
-    "World/Countries/Kingdom Of Magyrther/Kingdom Of Magyrther.md",
     "World/Countries/Kingdom Of Magyrther",
-    "World/Countries/Brania/Brania.md",
     "World/Countries/Brania",
-    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
-    "World/Countries/Free Territory Of Winfalia",
-    "World/Countries/Principality Of Veld/Principality Of Veld.md",
-    "World/Countries/Principality Of Veld",
-    "World/Countries/Dutchy Of Midurth/Dutchy Of Midurth.md",
-    "World/Countries/Dutchy Of Midurth",
     "World/World.md",
     "World/Country Types.md",
     "Players/Players.md",
@@ -228,9 +231,6 @@
     "tijdelijke notes.md",
     "Pasted image 20231025115748.png",
     "Azgaar.png",
-    "NPC's/Xerdantuss.md",
-    "NPC's/Petrik Vixen.md",
-    "NPC's/Asema Hunt.md",
-    "NPC's/Clayton Exeter.md"
+    "NPC's/Xerdantuss.md"
   ]
 }
