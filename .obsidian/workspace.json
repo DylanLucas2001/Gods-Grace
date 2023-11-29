@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
+                "file": "Plot/Session 3/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
+                "file": "Plot/Session 3/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md"
+                "file": "Plot/Session 3/Session 3.md"
               }
             }
           },
@@ -190,10 +191,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "69522ab9573fb661",
+  "active": "fadabe01439c6cdb",
   "lastOpenFiles": [
-    "Plot/Session 3/Session 3.md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
+    "Plot/Session 3/Session 3.md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
     "World/Countries/Countries.md",
     "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
