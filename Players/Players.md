@@ -44,8 +44,8 @@ class:Wizard
 
 Robbe :20
 Dries : 17
-Bo :17
-Ortwin :16 
+Bo :17 RAGE
+Ortwin :16  
 Yaseen : 16
 Váli: 10
 Copper: 9
