@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "Players/Players.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 3/Session 3.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Players/Yaseen- Greed(Warforged).md",
     "Plot/Session 3/Session 3.md",
+    "Players/Yaseen- Greed(Warforged).md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
     "Players/Váli - Fernweh(Wizard).md",
     "Players/Robbe - Damu (Monk).md",
