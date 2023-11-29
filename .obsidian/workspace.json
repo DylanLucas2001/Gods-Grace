@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fadabe01439c6cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Plot/Session 3/Session 3.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 3/Session 3.md"
+                "file": "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md"
               }
             }
           },
@@ -180,16 +192,18 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Players/Players.md",
-    "tijdelijke notes.md",
+    "Plot/Session 3/Session 3.md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
+    "World/Countries/Countries.md",
+    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
+    "Players/Players.md",
+    "tijdelijke notes.md",
     "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
     "World/Countries/Republic Of Raule/Republic Of Raule.md",
     "World/Countries/Principality Of Veld/Principality Of Veld.md",
     "World/Countries/Republic Of Nogor/Republic Of Nogor.md",
     "World/Countries/Kingdom Of Magyrther/Kingdom Of Magyrther.md",
-    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
     "World/Countries/Free Territory Of Winfalia/Burgs",
     "World/Countries/Grand Duchy Of Mythspelia/Grand Duchy Of Mythspelia.md",
     "World/Countries/Fharein Commonwealth/Fharein Commonwealth.md",
@@ -209,8 +223,6 @@
     "World/Countries/Grand Duchy Of Mythspelia",
     "World/Countries/Fharein Commonwealth",
     "World/Countries/Ethian Empire",
-    "World/Countries/Countries.md",
-    "Plot/Session 3/Session 3.md",
     "Players/Yaseen- Greed(Warforged).md",
     "Players/Váli - Fernweh(Wizard).md",
     "Players/Robbe - Damu (Monk).md",

@@ -1,9 +1,4 @@
 
- 
-```ccard
-type: folder_brief_live
-```
- 
 ![[Azgaar.png]]
 ### [[Dutchy Of Midurth]]
 een hertogdom onder leiding van [[Alanus Randulfus | Grand Duke Alanus Randulfus]] en [[Victoria Randulfus | Grand Duchess Victoria Randulfus]]
@@ -66,14 +61,14 @@ Nogor is een poging tot democratie van de orks(en half orks).
 
 Ook al is het verassend stabiel er zijn veel spanningen aangezien de ork stammen niet zomaar meer mogen plunderen etc. Andere rassen werken er wel maar meestal in toestanden die net op het randje van slavernij vallen.
 
-### Ethian Empire
+### [[Ethian Empire]]
 Een rijk met 2 koningen. Altijd een magier en een krijger. 
 
 Deze warrior/scholar verhouding zorgt dat alle beslissingen optimaal zijn vanuit beide standpunten. Iedere inwooner heeft een verplichte 5 jaar militaire service wanneer ze volwassen worden(afhankelijk van ras)
 
-### Fharein Commonwealth
+### [[Fharein Commonwealth]]
 Een democratie geleid door een parlement.
 
 Is omsingeld door onvriendelijke staten([[World#Ethian Empire|Ethian Empire]] en [[World#Grand Duchy Of Mythspelia|Mythspelia]]) waardoor handel en diplomatie moeilijk zijn. 
-### Darn Moldir
+### [[Darn Moldir]]
 Een dwergen stad staat die een enorme hoeveelheid grondstoffen produceert en verantwoordelijk is voor de meeste van de geavanceerde technologie. 
