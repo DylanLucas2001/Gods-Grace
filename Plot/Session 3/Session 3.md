@@ -5,8 +5,8 @@ Het is momenteel eb waardoor ze op een grote zandvlakte liggen, maar vloed zal s
 geplande richtingen =>
 
 1. Coalstal cave
-2. Stay in ship and hope it floats
-3. Forest
+2. Stay in ship and hope it floats()
+3. Forest(insect encounters)
 4. Drater(Haven stad)
 
 
