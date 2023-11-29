@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
+                "file": "Players/Players.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
+    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
     "World/Countries/Grand Duchy Of Mythspelia/Grand Duchy Of Mythspelia.md",
     "Players/Players.md",
     "Plot/Session 3/Session 3.md",
@@ -192,7 +193,6 @@
     "Players/Bo - Alya (Barbarian).md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
     "World/Countries/Countries.md",
-    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
     "tijdelijke notes.md",
     "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
     "World/Countries/Republic Of Raule/Republic Of Raule.md",
