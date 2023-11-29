@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
+                "file": "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Players.md"
+                "file": "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md"
               }
             }
           },
@@ -180,6 +180,8 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
+    "World/Countries/Grand Duchy Of Mythspelia/Grand Duchy Of Mythspelia.md",
+    "Players/Players.md",
     "Plot/Session 3/Session 3.md",
     "Players/Yaseen- Greed(Warforged).md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
@@ -188,7 +190,6 @@
     "Players/Ortwin - Marben (rogue).md",
     "Players/Dries - Thormin (Bard).md",
     "Players/Bo - Alya (Barbarian).md",
-    "Players/Players.md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
     "World/Countries/Countries.md",
     "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
@@ -199,7 +200,6 @@
     "World/Countries/Republic Of Nogor/Republic Of Nogor.md",
     "World/Countries/Kingdom Of Magyrther/Kingdom Of Magyrther.md",
     "World/Countries/Free Territory Of Winfalia/Burgs",
-    "World/Countries/Grand Duchy Of Mythspelia/Grand Duchy Of Mythspelia.md",
     "World/Countries/Fharein Commonwealth/Fharein Commonwealth.md",
     "World/Countries/Ethian Empire/Ethian Empire.md",
     "World/Countries/Dutchy Of Midurth/Dutchy Of Midurth.md",
