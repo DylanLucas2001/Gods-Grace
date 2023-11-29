@@ -48,6 +48,6 @@ Bo :17 RAGE
 Ortwin :16  
 Yaseen : 16
 Váli: 10
-Copper: 9
-silver : 7
+Copper: 9 hp: 22-8 = 16
+silver : 7 hp: 22
 
