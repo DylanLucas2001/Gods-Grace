@@ -7,6 +7,7 @@ type: folder_brief_live
 Yaseen: 
 name: Greed
 race: custom construct
+Gold Count: 5
 Electrum
 
 
