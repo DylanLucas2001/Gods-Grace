@@ -13,3 +13,9 @@ ortwin
 Dries & Robbe met torch
 Fern 
 Bo & Yaseen
+
+Coastal cave gekozen.
+Giant spider gif geroken.
+Via 2e uitgang naarbuiten gegaan
+
+
