@@ -1,0 +1,1 @@
+After a long rest a large and lushious mustache appears on your upper lip. If the ring is removed, all facial hair immediately falls off.

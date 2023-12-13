@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom items/Magic items/Pot Of Tea Time.md",
+                "file": "Custom items/Magic items/Book Of Misspellings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom items/Magic items/Pot Of Tea Time.md",
+                "file": "Custom items/Magic items/Book Of Misspellings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom items/Magic items/Pot Of Tea Time.md",
+                "file": "Custom items/Magic items/Book Of Misspellings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom items/Magic items/Pot Of Tea Time.md"
+                "file": "Custom items/Magic items/Book Of Misspellings.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Custom items/Magic items/Bag Of WithHolding.md",
+    "Custom items/Magic items/Ring of major mustache.md",
+    "Custom items/Magic items/Book Of Misspellings.md",
     "Custom items/Magic items/Pot Of Tea Time.md",
+    "Custom items/Magic items/Bag Of WithHolding.md",
     "Custom items/Magic items/Gambler's ring.md",
     "Custom items/Magic items/Challis of poor decision-making.md",
     "Custom items/Magic items/Ring of exploration.md",
@@ -207,8 +209,6 @@
     "Players/Players.md",
     "Plot/Session 4",
     "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
-    "World/Countries/Grand Duchy Of Mythspelia/Grand Duchy Of Mythspelia.md",
-    "Players/Yaseen- Greed(Warforged).md",
     "World/Countries/Free Territory Of Winfalia/Burgs",
     "World/Countries/Sunhelm Empire",
     "World/Countries/Republic Of Raule",
