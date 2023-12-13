@@ -1,0 +1,1 @@
+While worn, no other PC or NPC will speak or interact with the wearer in a non-combat situation. This effect does not protect a PC from being arrested or confronted for a criminal action.

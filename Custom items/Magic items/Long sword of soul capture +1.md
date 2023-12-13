@@ -1,0 +1,1 @@
+ When a PC uses this weapon to kill a creature; the long sword becomes sentient with the soul of that creature. When a PC kills another creature, the old soul is discarded and a new soul takes its place.

@@ -1,0 +1,1 @@
+When used, every non-threatening NPC is magically compelled to listen to whoever is using it.
