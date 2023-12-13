@@ -41,12 +41,14 @@ Race: Satyr
 class:Wizard
 
 Initiative:
-Robbe : 
-Dries : 
-Bo : 
-Ortwin :  
-Yaseen : 
-Váli: 
+ 
+Hellhound: 20      25hp
+Ortwin :  16
+Dries : 12
+Váli: 9
+Bo : 8
+Robbe : 6
+Yaseen : 4      
 
 LOCATIES:
 Robbe : 
