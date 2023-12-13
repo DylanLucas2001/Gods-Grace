@@ -7,3 +7,5 @@ een Kuo-Tao schip dokt. het is een walvis met randen van schubben die uitsteken.
 de locale heer [[Horace Colfield]] komt om de Earnes Incorporated te ontvangen.
 De groep bestaat uit 6 koetsen waarvan 3 geladen met marmer, 1 met goud en 2 karren gemaakt door dwarves, bemand door dwarves met onbekende wapens vast.
 De heer moet zijn schulde dringend terug betaalen voor zijn terretorium wordt overgenomen. De party wordt gevraagd de familie dungeon in te gaan om een artifact(schedel met een grote hoeveelheid edelstenen er rechtstreeks in geplaatst) te halen dat zijn schulden op te lossen, de stad te redden en nog geld over te houden.
+
+
