@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eagrorest.md",
+                "file": "Custom items/Magic items/Ring of jumping.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eagrorest.md",
+                "file": "Custom items/Magic items/Ring of jumping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eagrorest.md",
+                "file": "Custom items/Magic items/Ring of jumping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eagrorest.md"
+                "file": "Custom items/Magic items/Ring of jumping.md"
               }
             }
           },
@@ -180,8 +180,13 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Plot/Session 4/Session 4.md",
+    "Custom items/Custom items.md",
+    "Custom items/Magic items/Ring of jumping.md",
+    "Custom items/Magic items",
     "Eagrorest.md",
+    "Custom items/Untitled.md",
+    "Custom items",
+    "Plot/Session 4/Session 4.md",
     "Plot/Session 3/Session 3.md",
     "Players/Players.md",
     "Plot/Session 4",
@@ -205,17 +210,12 @@
     "World/Countries/Free Territory Of Winfalia/Burgs",
     "World/Countries/Fharein Commonwealth/Fharein Commonwealth.md",
     "World/Countries/Ethian Empire/Ethian Empire.md",
-    "World/Countries/Dutchy Of Midurth/Dutchy Of Midurth.md",
-    "World/Countries/Duchy Of Shrus/Duchy Of Shrus.md",
-    "World/Countries/Dobeth/Dobeth.md",
     "World/Countries/Sunhelm Empire",
     "World/Countries/Republic Of Raule",
     "World/Countries/Republic Of Nogor",
     "World/Countries/Principality Of Veld",
     "World/Countries/Kingdom Of Magyrther",
     "World/Countries/Free Territory Of Winfalia",
-    "World/Countries/Grand Duchy Of Mythspelia",
-    "World/Countries/Fharein Commonwealth",
     "Pasted image 20231025115748.png",
     "Azgaar.png"
   ]
