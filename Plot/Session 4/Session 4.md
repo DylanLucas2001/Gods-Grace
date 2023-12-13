@@ -9,3 +9,8 @@ De groep bestaat uit 6 koetsen waarvan 3 geladen met marmer, 1 met goud en 2 kar
 De heer moet zijn schulde dringend terug betaalen voor zijn terretorium wordt overgenomen. De party wordt gevraagd de familie dungeon in te gaan om een artifact(schedel met een grote hoeveelheid edelstenen er rechtstreeks in geplaatst) te halen dat zijn schulden op te lossen, de stad te redden en nog geld over te houden.
 
 
+
+
+
+einde van sessie:
+iedereen slaapt in inn.

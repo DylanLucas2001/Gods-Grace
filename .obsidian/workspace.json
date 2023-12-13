@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Players.md"
+                "file": "Plot/Session 4/Session 4.md"
               }
             }
           },
@@ -215,10 +214,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d69a617eadf69649",
+  "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "NPC's/Najara(traveling magic merchant).md",
     "Players/Players.md",
+    "NPC's/Najara(traveling magic merchant).md",
     "Custom items/Magic items/Bag of substantial whimsy.md",
     "Plot/Session 4/Session 4.md",
     "Custom items/Magic items/Gilded Lilly.md",
