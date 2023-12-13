@@ -7,7 +7,7 @@ type: folder_brief_live
 Yaseen: 
 name: Greed
 race: custom construct
-Gold Count: 7
+Gold Count: 9
 Electrum
 
 
