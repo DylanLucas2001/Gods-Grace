@@ -1,1 +1,1 @@
-De sessie begine in [[Eagrorest]]. 
+De sessie begint in [[Eagrorest]]. de party is opgesplitst(alweer >:(  ) 
