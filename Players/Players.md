@@ -40,6 +40,7 @@ name: Fernweh
 Race: Satyr
 class:Wizard
 
+Initiative:
 Robbe : 
 Dries : 
 Bo : 
@@ -48,6 +49,12 @@ Yaseen :
 Váli: 
 
 LOCATIES:
+Robbe : 
+Dries : 
+Bo : 
+Ortwin :  
+Yaseen : 
+Váli: 
 
 
 
