@@ -1,0 +1,1 @@
+Works like a bag of holding but objects or  creatures  completely inserted cannot be removed.

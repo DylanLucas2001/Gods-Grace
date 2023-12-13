@@ -1,0 +1,2 @@
+countains an infinite amount of slightly to hot to drink tea.
+Any creature that sees tea being poured from this pot into a teacup must make a 10+ will save throw or be compelled to sit down for a cup of tea. if the compele
