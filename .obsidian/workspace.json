@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d69a617eadf69649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Players.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 4/Session 4.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -190,10 +203,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "69522ab9573fb661",
+  "active": "d69a617eadf69649",
   "lastOpenFiles": [
-    "Players/Players.md",
+    "Players/Yaseen- Greed(Warforged).md",
     "Plot/Session 4/Session 4.md",
+    "Players/Players.md",
     "NPC's/Horace Colfield.md",
     "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items/Tankard Of Sobriety.md",
@@ -217,7 +231,6 @@
     "Custom items/Magic items/Pipe of epics.md",
     "Custom items/Magic items/Arrow of transportation.md",
     "Custom items/Magic items/Long sword of soul capture +1.md",
-    "Custom items/Magic items/Cloak of social invisibility.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
