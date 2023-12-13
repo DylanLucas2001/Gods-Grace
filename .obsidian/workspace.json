@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Players.md"
+                "file": "Plot/Session 4/Session 4.md"
               }
             }
           },
@@ -205,9 +205,9 @@
   },
   "active": "d69a617eadf69649",
   "lastOpenFiles": [
+    "Players/Players.md",
     "Players/Yaseen- Greed(Warforged).md",
     "Plot/Session 4/Session 4.md",
-    "Players/Players.md",
     "NPC's/Horace Colfield.md",
     "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items/Tankard Of Sobriety.md",
