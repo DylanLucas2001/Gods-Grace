@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "40b7712daf471e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Players.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 4/Session 4.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -203,11 +215,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d69a617eadf69649",
+  "active": "40b7712daf471e81",
   "lastOpenFiles": [
+    "Plot/Session 4/Session 4.md",
     "Players/Players.md",
     "Players/Yaseen- Greed(Warforged).md",
-    "Plot/Session 4/Session 4.md",
     "NPC's/Horace Colfield.md",
     "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items/Tankard Of Sobriety.md",
