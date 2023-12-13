@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
+                "file": "NPC's/Najara(traveling magic merchant).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
+                "file": "NPC's/Najara(traveling magic merchant).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
+                "file": "NPC's/Najara(traveling magic merchant).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Players.md"
+                "file": "NPC's/Najara(traveling magic merchant).md"
               }
             }
           },
@@ -217,8 +217,9 @@
   },
   "active": "d69a617eadf69649",
   "lastOpenFiles": [
-    "Custom items/Magic items/Bag of substantial whimsy.md",
     "Players/Players.md",
+    "NPC's/Najara(traveling magic merchant).md",
+    "Custom items/Magic items/Bag of substantial whimsy.md",
     "Plot/Session 4/Session 4.md",
     "Custom items/Magic items/Gilded Lilly.md",
     "Players/Yaseen- Greed(Warforged).md",
@@ -242,7 +243,6 @@
     "Custom items/Magic items/Ring of contrast.md",
     "Custom items/Magic items/Wand of mutual friendship (35 charges).md",
     "Custom items/Magic items/Pipe of epics.md",
-    "Custom items/Magic items/Arrow of transportation.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
