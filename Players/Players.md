@@ -40,15 +40,14 @@ name: Fernweh
 Race: Satyr
 class:Wizard
 
+Robbe : 
+Dries : 
+Bo : 
+Ortwin :  
+Yaseen : 
+Váli: 
+
+LOCATIES:
 
 
-
-Robbe :20
-Dries : 17
-Bo :17 RAGE
-Ortwin :16  
-Yaseen : 16
-Váli: 10
-Copper: 9 hp: 22-8 = 16 - 1 = 15 - 4 = 11 - 8 = 3
-silver : 7 hp: 22 - 16 = 6 - 12 =
 
