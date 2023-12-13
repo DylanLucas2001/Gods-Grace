@@ -4,4 +4,4 @@ merchant troupe (Earnes Incorporated) komt met heel grote koetsen om te handelen
 
 een Kuo-Tao schip dokt. het is een walvis met randen van schubben die uitsteken. under/achter de schubben zijn houten vaten bevestigd om vracht mee te nemen.
 
-de locale heer [[Horace Colfield]]
+de locale heer [[Horace Colfield]] komt om de 
