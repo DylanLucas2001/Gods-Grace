@@ -1,0 +1,1 @@
+ +Int vs. Will, hit: the caster and the target magically act as if they have been very good friends for years. This effect lasts for 1d6 days.
