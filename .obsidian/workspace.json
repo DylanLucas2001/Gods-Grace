@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4200b52183e6600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Horace Colfield.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "NPC's/Horace Colfield.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "NPC's/Horace Colfield.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 4/Session 4.md"
+                "file": "NPC's/Horace Colfield.md"
               }
             }
           },
@@ -178,10 +191,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "69522ab9573fb661",
+  "active": "e4200b52183e6600",
   "lastOpenFiles": [
-    "NPC's/Horace Colfield.md",
     "Plot/Session 4/Session 4.md",
+    "NPC's/Horace Colfield.md",
     "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items/Tankard Of Sobriety.md",
     "Custom items/Magic items/Socks Of Finding.md",
