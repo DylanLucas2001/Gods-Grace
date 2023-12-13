@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Players/Players.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 4/Session 4.md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "NPC's/Horace Colfield.md",
     "Plot/Session 4/Session 4.md",
+    "NPC's/Horace Colfield.md",
     "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items/Tankard Of Sobriety.md",
     "Custom items/Magic items/Socks Of Finding.md",
