@@ -1,0 +1,1 @@
+A wooden staff shaped like a sunflower with a smiling face in the middle. 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom items/Magic items/Glove of mage hand.md",
+                "file": "Custom items/Magic items/Staff of Merciless Sunshine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom items/Magic items/Glove of mage hand.md",
+                "file": "Custom items/Magic items/Staff of Merciless Sunshine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom items/Magic items/Glove of mage hand.md",
+                "file": "Custom items/Magic items/Staff of Merciless Sunshine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom items/Magic items/Glove of mage hand.md"
+                "file": "Custom items/Magic items/Staff of Merciless Sunshine.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Custom items/Magic items/Rod of Precipitation Deterrence.md",
     "Custom items/Magic items/Glove of mage hand.md",
+    "Custom items/Magic items/Staff of Merciless Sunshine.md",
+    "Custom items/Magic items/Rod of Precipitation Deterrence.md",
     "Custom items/Magic items/Book Of Misspellings.md",
     "Custom items/Magic items/Ring of major mustache.md",
     "Custom items/Magic items/Pot Of Tea Time.md",
@@ -207,7 +208,6 @@
     "Eagrorest.md",
     "Custom items/Untitled.md",
     "Custom items",
-    "Plot/Session 3/Session 3.md",
     "Plot/Session 4",
     "World/Countries/Free Territory Of Winfalia/Burgs",
     "World/Countries/Sunhelm Empire",
