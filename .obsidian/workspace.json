@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom items/Magic items/Socks Of Finding.md",
+                "file": "Custom items/Magic items/Tome of Cat.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom items/Magic items/Socks Of Finding.md",
+                "file": "Custom items/Magic items/Tome of Cat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom items/Magic items/Socks Of Finding.md",
+                "file": "Custom items/Magic items/Tome of Cat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom items/Magic items/Socks Of Finding.md"
+                "file": "Custom items/Magic items/Tome of Cat.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Custom items/Magic items/Bell of invicibility.md",
     "Custom items/Magic items/Socks Of Finding.md",
+    "Custom items/Magic items/Tome of Cat.md",
+    "Custom items/Magic items/Bell of invicibility.md",
     "Custom items/Magic items/Pot Of Tea Time.md",
     "Custom items/Magic items/Staff of Merciless Sunshine.md",
     "Custom items/Magic items/Glove of mage hand.md",
@@ -205,7 +206,6 @@
     "Custom items/Magic items/Marble of small illusions.md",
     "Custom items/Magic items/Ring of jumping.md",
     "Plot/Session 4/Session 4.md",
-    "Custom items/Custom items.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
