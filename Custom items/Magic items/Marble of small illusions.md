@@ -1,1 +1,1 @@
-Allows the wearer to
+Allows the wearer to make small illusions(up to 5 cm in diameter)
