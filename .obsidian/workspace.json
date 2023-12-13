@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Players.md"
+                "file": "Plot/Session 4/Session 4.md"
               }
             }
           },
@@ -180,10 +180,12 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
+    "Plot/Session 3/Session 3.md",
+    "Plot/Session 4/Session 4.md",
+    "Players/Players.md",
+    "Plot/Session 4",
     "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
     "World/Countries/Grand Duchy Of Mythspelia/Grand Duchy Of Mythspelia.md",
-    "Players/Players.md",
-    "Plot/Session 3/Session 3.md",
     "Players/Yaseen- Greed(Warforged).md",
     "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
     "Players/Váli - Fernweh(Wizard).md",
@@ -206,7 +208,6 @@
     "World/Countries/Duchy Of Shrus/Duchy Of Shrus.md",
     "World/Countries/Dobeth/Dobeth.md",
     "World/Countries/Darn Moldir/Darn Moldir.md",
-    "World/Countries/Clifront/Clifront.md",
     "World/Countries/Sunhelm Empire",
     "World/Countries/Republic Of Raule",
     "World/Countries/Republic Of Nogor",
@@ -215,7 +216,6 @@
     "World/Countries/Free Territory Of Winfalia",
     "World/Countries/Grand Duchy Of Mythspelia",
     "World/Countries/Fharein Commonwealth",
-    "World/Countries/Ethian Empire",
     "Pasted image 20231025115748.png",
     "Azgaar.png"
   ]
