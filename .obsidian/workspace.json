@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom items/Magic items/Gilded Lilly.md",
+                "file": "Custom items/Magic items/Bag of substantial whimsy.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom items/Magic items/Gilded Lilly.md",
+                "file": "Custom items/Magic items/Bag of substantial whimsy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom items/Magic items/Gilded Lilly.md",
+                "file": "Custom items/Magic items/Bag of substantial whimsy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom items/Magic items/Gilded Lilly.md"
+                "file": "Custom items/Magic items/Bag of substantial whimsy.md"
               }
             }
           },
@@ -217,6 +217,7 @@
   },
   "active": "40b7712daf471e81",
   "lastOpenFiles": [
+    "Custom items/Magic items/Gilded Lilly.md",
     "Players/Players.md",
     "Plot/Session 4/Session 4.md",
     "Players/Yaseen- Greed(Warforged).md",
@@ -242,7 +243,6 @@
     "Custom items/Magic items/Bag of substantial whimsy.md",
     "Custom items/Magic items/Pipe of epics.md",
     "Custom items/Magic items/Arrow of transportation.md",
-    "Custom items/Magic items/Long sword of soul capture +1.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
