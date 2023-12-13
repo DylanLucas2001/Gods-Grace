@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom items/Magic items/Ring of jumping.md",
+                "file": "Custom items/Magic items/Marble of small illusions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom items/Magic items/Ring of jumping.md",
+                "file": "Custom items/Magic items/Marble of small illusions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom items/Magic items/Ring of jumping.md",
+                "file": "Custom items/Magic items/Marble of small illusions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom items/Magic items/Ring of jumping.md"
+                "file": "Custom items/Magic items/Marble of small illusions.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Custom items/Custom items.md",
     "Custom items/Magic items/Ring of jumping.md",
+    "Custom items/Magic items/Marble of small illusions.md",
+    "Custom items/Custom items.md",
     "Custom items/Magic items",
     "Eagrorest.md",
     "Custom items/Untitled.md",
@@ -209,7 +210,6 @@
     "World/Countries/Kingdom Of Magyrther/Kingdom Of Magyrther.md",
     "World/Countries/Free Territory Of Winfalia/Burgs",
     "World/Countries/Fharein Commonwealth/Fharein Commonwealth.md",
-    "World/Countries/Ethian Empire/Ethian Empire.md",
     "World/Countries/Sunhelm Empire",
     "World/Countries/Republic Of Raule",
     "World/Countries/Republic Of Nogor",
