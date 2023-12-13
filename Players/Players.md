@@ -42,7 +42,7 @@ class:Wizard
 
 Initiative:
  
-Hellhound: 20      25hp
+Hellhound: 20      25hp - 6 = 19
 Ortwin :  16
 Dries : 12
 Váli: 9
@@ -58,5 +58,5 @@ Ortwin :
 Dries : 
 Váli: 
 
-
+35/120
 
