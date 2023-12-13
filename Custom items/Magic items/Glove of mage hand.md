@@ -1,0 +1,1 @@
+wearing it causes a magehand to appear. it completely copies the movements of the hand it is worn on.

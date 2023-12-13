@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Custom items/Magic items/Book Of Misspellings.md",
+                "file": "Custom items/Magic items/Glove of mage hand.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Custom items/Magic items/Book Of Misspellings.md",
+                "file": "Custom items/Magic items/Glove of mage hand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Custom items/Magic items/Book Of Misspellings.md",
+                "file": "Custom items/Magic items/Glove of mage hand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Custom items/Magic items/Book Of Misspellings.md"
+                "file": "Custom items/Magic items/Glove of mage hand.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Custom items/Magic items/Ring of major mustache.md",
+    "Custom items/Magic items/Rod of Precipitation Deterrence.md",
+    "Custom items/Magic items/Glove of mage hand.md",
     "Custom items/Magic items/Book Of Misspellings.md",
+    "Custom items/Magic items/Ring of major mustache.md",
     "Custom items/Magic items/Pot Of Tea Time.md",
     "Custom items/Magic items/Bag Of WithHolding.md",
     "Custom items/Magic items/Gambler's ring.md",
@@ -206,9 +208,7 @@
     "Custom items/Untitled.md",
     "Custom items",
     "Plot/Session 3/Session 3.md",
-    "Players/Players.md",
     "Plot/Session 4",
-    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
     "World/Countries/Free Territory Of Winfalia/Burgs",
     "World/Countries/Sunhelm Empire",
     "World/Countries/Republic Of Raule",

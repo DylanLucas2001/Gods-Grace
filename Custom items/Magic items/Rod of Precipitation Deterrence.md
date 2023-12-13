@@ -1,0 +1,1 @@
+This length of wood is headed by a complex arrangement of smaller struts, covered by an awning of dense fabric. A mechanism running up the center shaft allows the entire outer layer to be opened out to keep the bearer dry during wet weather. Oddly enough, simply holding the rod appears to prevent wet weather from occurring around the bearer.
