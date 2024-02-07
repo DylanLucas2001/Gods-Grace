@@ -19,3 +19,8 @@ Giant spider gif geroken.
 Via 2e uitgang naarbuiten gegaan
 
 
+EndOfSessionNotes
+- Ortwin alleen buiten de stad.
+- al de rest: aan het plein.
+
+
