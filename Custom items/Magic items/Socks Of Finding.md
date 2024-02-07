@@ -1,0 +1,1 @@
+When wearing one of the socks, the wearer will be aware of the direction and distance to the location of the other sock

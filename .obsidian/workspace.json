@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Plot/Session 4/Session 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4200b52183e6600",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC's/Horace Colfield.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d69a617eadf69649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Players/Players.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40b7712daf471e81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Custom items/Magic items/Bag of substantial whimsy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Plot/Session 4/Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Players.md"
+                "file": "Plot/Session 4/Session 4.md"
               }
             }
           },
@@ -180,42 +216,42 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "World/Countries/Free Territory Of Winfalia/Free Territory Of Winfalia.md",
-    "World/Countries/Grand Duchy Of Mythspelia/Grand Duchy Of Mythspelia.md",
     "Players/Players.md",
-    "Plot/Session 3/Session 3.md",
+    "NPC's/Najara(traveling magic merchant).md",
+    "Custom items/Magic items/Bag of substantial whimsy.md",
+    "Plot/Session 4/Session 4.md",
+    "Custom items/Magic items/Gilded Lilly.md",
     "Players/Yaseen- Greed(Warforged).md",
-    "World/Countries/Free Territory Of Winfalia/Burgs/Drater.md",
-    "Players/Váli - Fernweh(Wizard).md",
-    "Players/Robbe - Damu (Monk).md",
-    "Players/Ortwin - Marben (rogue).md",
-    "Players/Dries - Thormin (Bard).md",
-    "Players/Bo - Alya (Barbarian).md",
-    "World/Countries/Free Territory Of Winfalia/Burgs/Burgs.md",
-    "World/Countries/Countries.md",
-    "tijdelijke notes.md",
-    "World/Countries/Sunhelm Empire/Sunhelm Empire.md",
-    "World/Countries/Republic Of Raule/Republic Of Raule.md",
-    "World/Countries/Principality Of Veld/Principality Of Veld.md",
-    "World/Countries/Republic Of Nogor/Republic Of Nogor.md",
-    "World/Countries/Kingdom Of Magyrther/Kingdom Of Magyrther.md",
+    "NPC's/Horace Colfield.md",
+    "Custom items/Magic items/Tome of Cat.md",
+    "Custom items/Magic items/Tankard Of Sobriety.md",
+    "Custom items/Magic items/Socks Of Finding.md",
+    "Custom items/Magic items/Bell of invicibility.md",
+    "Custom items/Magic items/Pot Of Tea Time.md",
+    "Custom items/Magic items/Staff of Merciless Sunshine.md",
+    "Custom items/Magic items/Glove of mage hand.md",
+    "Custom items/Magic items/Rod of Precipitation Deterrence.md",
+    "Custom items/Magic items/Book Of Misspellings.md",
+    "Custom items/Magic items/Ring of major mustache.md",
+    "Custom items/Magic items/Bag Of WithHolding.md",
+    "Custom items/Magic items/Gambler's ring.md",
+    "Custom items/Magic items/Challis of poor decision-making.md",
+    "Custom items/Magic items/Ring of exploration.md",
+    "Custom items/Magic items/Amulet of exploration.md",
+    "Custom items/Magic items/Ring of lamp.md",
+    "Custom items/Magic items/Ring of contrast.md",
+    "Custom items/Magic items/Wand of mutual friendship (35 charges).md",
+    "Custom items/Magic items/Pipe of epics.md",
+    "Custom items/Magic items",
+    "Custom items",
+    "Plot/Session 4",
     "World/Countries/Free Territory Of Winfalia/Burgs",
-    "World/Countries/Fharein Commonwealth/Fharein Commonwealth.md",
-    "World/Countries/Ethian Empire/Ethian Empire.md",
-    "World/Countries/Dutchy Of Midurth/Dutchy Of Midurth.md",
-    "World/Countries/Duchy Of Shrus/Duchy Of Shrus.md",
-    "World/Countries/Dobeth/Dobeth.md",
-    "World/Countries/Darn Moldir/Darn Moldir.md",
-    "World/Countries/Clifront/Clifront.md",
     "World/Countries/Sunhelm Empire",
     "World/Countries/Republic Of Raule",
     "World/Countries/Republic Of Nogor",
     "World/Countries/Principality Of Veld",
     "World/Countries/Kingdom Of Magyrther",
     "World/Countries/Free Territory Of Winfalia",
-    "World/Countries/Grand Duchy Of Mythspelia",
-    "World/Countries/Fharein Commonwealth",
-    "World/Countries/Ethian Empire",
     "Pasted image 20231025115748.png",
     "Azgaar.png"
   ]

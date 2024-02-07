@@ -1,0 +1,1 @@
+a traveling magic item merchant that made a pact with the party members.

@@ -1,0 +1,1 @@
+ A single arrow, that when fired, causes the PC to be teleported to wherever the arrow was fired.

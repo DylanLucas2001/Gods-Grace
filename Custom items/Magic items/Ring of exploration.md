@@ -1,0 +1,1 @@
+ (cursed, 25 arcana, cannot remove until curse is lifted): PC who wears the amulet changes sexes.

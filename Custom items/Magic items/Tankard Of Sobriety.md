@@ -1,0 +1,1 @@
+This tankard removes the alcoholic properties from all fluids placed inside it

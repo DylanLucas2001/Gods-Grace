@@ -7,7 +7,7 @@ type: folder_brief_live
 Yaseen: 
 name: Greed
 race: custom construct
-Gold Count: 5
+Gold Count: 13
 Electrum
 
 
@@ -40,15 +40,23 @@ name: Fernweh
 Race: Satyr
 class:Wizard
 
+Initiative:
+ 
+Hellhound: 20      25hp - 6 = 19
+Ortwin :  16
+Dries : 12
+Váli: 9
+Bo : 8
+Robbe : 6
+Yaseen : 4      
 
+LOCATIES:
+Robbe : 
+Bo : 
+Yaseen : 
+Ortwin :  
+Dries : 
+Váli: 
 
-
-Robbe :20
-Dries : 17
-Bo :17 RAGE
-Ortwin :16  
-Yaseen : 16
-Váli: 10
-Copper: 9 hp: 22-8 = 16 - 1 = 15 - 4 = 11 - 8 = 3
-silver : 7 hp: 22 - 16 = 6 - 12 =
+35/120
 

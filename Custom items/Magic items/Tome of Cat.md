@@ -1,0 +1,1 @@
+Players open the tome but can never read its contents, as opening it spawns a large cuddly cat that plops down for a nap on its pages or demands your attention to the point of exhaustion. Closing the book sends the cat away. There’s nothing worth reading in the tome.

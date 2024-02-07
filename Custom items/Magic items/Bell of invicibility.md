@@ -1,0 +1,1 @@
+makes the user invicible for 5 seconds when the bell is rung.
