@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC's/Horace Colfield.md",
+                "file": "Plot/Session 3/Session 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Plot/Session 3/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot/Session 4/Session 4.md",
+                "file": "Plot/Session 3/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot/Session 4/Session 4.md"
+                "file": "Plot/Session 3/Session 3.md"
               }
             }
           },
@@ -214,15 +215,23 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "69522ab9573fb661",
+  "active": "e4200b52183e6600",
   "lastOpenFiles": [
-    "Players/Players.md",
-    "NPC's/Najara(traveling magic merchant).md",
-    "Custom items/Magic items/Bag of substantial whimsy.md",
     "Plot/Session 4/Session 4.md",
+    "NPC's/Horace Colfield.md",
+    "Plot/Session 1 Start.md",
+    "Plot/Age Of God's Grace.md",
+    "World/World.md",
+    "World/Countries/Countries.md",
+    "Azgaar.png",
+    "Eagrorest.md",
+    "Pasted image 20231025115748.png",
+    "Custom items/Magic items/Bag of substantial whimsy.md",
+    "Players/Players.md",
+    "tijdelijke notes.md",
+    "NPC's/Najara(traveling magic merchant).md",
     "Custom items/Magic items/Gilded Lilly.md",
     "Players/Yaseen- Greed(Warforged).md",
-    "NPC's/Horace Colfield.md",
     "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items/Tankard Of Sobriety.md",
     "Custom items/Magic items/Socks Of Finding.md",
@@ -236,12 +245,6 @@
     "Custom items/Magic items/Bag Of WithHolding.md",
     "Custom items/Magic items/Gambler's ring.md",
     "Custom items/Magic items/Challis of poor decision-making.md",
-    "Custom items/Magic items/Ring of exploration.md",
-    "Custom items/Magic items/Amulet of exploration.md",
-    "Custom items/Magic items/Ring of lamp.md",
-    "Custom items/Magic items/Ring of contrast.md",
-    "Custom items/Magic items/Wand of mutual friendship (35 charges).md",
-    "Custom items/Magic items/Pipe of epics.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
@@ -251,8 +254,6 @@
     "World/Countries/Republic Of Nogor",
     "World/Countries/Principality Of Veld",
     "World/Countries/Kingdom Of Magyrther",
-    "World/Countries/Free Territory Of Winfalia",
-    "Pasted image 20231025115748.png",
-    "Azgaar.png"
+    "World/Countries/Free Territory Of Winfalia"
   ]
 }
