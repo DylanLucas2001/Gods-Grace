@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57043f8ba8b0af8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Players/Yaseen- Greed(Warforged).md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Players/Yaseen- Greed(Warforged).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Players/Yaseen- Greed(Warforged).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Players/Yaseen- Greed(Warforged).md"
               }
             }
           },
@@ -227,9 +214,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "57043f8ba8b0af8e",
+  "active": "69522ab9573fb661",
   "lastOpenFiles": [
     "Players/Players.md",
+    "Plot/Session 5/Session 5.md",
     "Untitled.md",
     "Plot/Session 5",
     "Players/Yaseen- Greed(Warforged).md",
@@ -257,7 +245,6 @@
     "Custom items/Magic items/Socks Of Finding.md",
     "Custom items/Magic items/Bell of invicibility.md",
     "Custom items/Magic items/Pot Of Tea Time.md",
-    "Custom items/Magic items/Staff of Merciless Sunshine.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
