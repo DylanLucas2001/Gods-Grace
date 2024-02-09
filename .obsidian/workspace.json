@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Yaseen- Greed(Warforged).md",
+                "file": "Players/Váli - Fernweh(Wizard).md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Yaseen- Greed(Warforged).md",
+                "file": "Players/Váli - Fernweh(Wizard).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Yaseen- Greed(Warforged).md",
+                "file": "Players/Váli - Fernweh(Wizard).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Yaseen- Greed(Warforged).md"
+                "file": "Players/Váli - Fernweh(Wizard).md"
               }
             }
           },
@@ -216,9 +216,10 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
+    "Players/Bo - Alya (Barbarian).md",
+    "Players/Yaseen- Greed(Warforged).md",
     "Players/Robbe - Damu (Monk).md",
     "Players/Váli - Fernweh(Wizard).md",
-    "Players/Yaseen- Greed(Warforged).md",
     "World/World.md",
     "Azgaar.png",
     "Eagrorest.md",
@@ -230,7 +231,6 @@
     "Plot/Session 5",
     "Players/Ortwin - Marben (rogue).md",
     "Players/Dries - Thormin (Bard).md",
-    "Players/Bo - Alya (Barbarian).md",
     "Plot/Session 4/Session 4.md",
     "Plot/Session 3/Session 3.md",
     "NPC's/Horace Colfield.md",
