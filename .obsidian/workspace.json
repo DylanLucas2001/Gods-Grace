@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Váli - Fernweh(Wizard).md",
+                "file": "Players/Players.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Váli - Fernweh(Wizard).md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Váli - Fernweh(Wizard).md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Váli - Fernweh(Wizard).md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -216,10 +216,10 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "Players/Bo - Alya (Barbarian).md",
-    "Players/Yaseen- Greed(Warforged).md",
     "Players/Robbe - Damu (Monk).md",
     "Players/Váli - Fernweh(Wizard).md",
+    "Players/Bo - Alya (Barbarian).md",
+    "Players/Yaseen- Greed(Warforged).md",
     "World/World.md",
     "Azgaar.png",
     "Eagrorest.md",
