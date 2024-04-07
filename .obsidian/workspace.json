@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Players/Bo - Alya (Barbarian).md",
                 "mode": "source",
                 "source": false
               }
@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plot/Session 3/Session 3.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,21 +64,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "40b7712daf471e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Custom items/Magic items/Bag of substantial whimsy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,30 +225,30 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8a4cca7e078edeff",
+  "active": "e4200b52183e6600",
   "lastOpenFiles": [
+    "Plot/Session 3/Session 3.md",
+    "Players/Players.md",
+    "Custom items/Magic items/Bag of substantial whimsy.md",
+    "Players/Bo - Alya (Barbarian).md",
+    "Untitled.md",
     "Players/Robbe - Damu (Monk).md",
     "Players/Váli - Fernweh(Wizard).md",
-    "Players/Bo - Alya (Barbarian).md",
     "Players/Yaseen- Greed(Warforged).md",
     "World/World.md",
     "Azgaar.png",
     "Eagrorest.md",
     "Pasted image 20231025115748.png",
     "tijdelijke notes.md",
-    "Untitled.md",
-    "Players/Players.md",
     "Plot/Session 5/Session 5.md",
     "Plot/Session 5",
     "Players/Ortwin - Marben (rogue).md",
     "Players/Dries - Thormin (Bard).md",
     "Plot/Session 4/Session 4.md",
-    "Plot/Session 3/Session 3.md",
     "NPC's/Horace Colfield.md",
     "Plot/Session 1 Start.md",
     "Plot/Age Of God's Grace.md",
     "World/Countries/Countries.md",
-    "Custom items/Magic items/Bag of substantial whimsy.md",
     "NPC's/Najara(traveling magic merchant).md",
     "Custom items/Magic items/Gilded Lilly.md",
     "Custom items/Magic items/Tome of Cat.md",
