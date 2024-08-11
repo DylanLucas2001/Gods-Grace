@@ -54,6 +54,16 @@
             }
           },
           {
+            "id": "4d19767c3f7352a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "d69a617eadf69649",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -225,7 +235,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "e4200b52183e6600",
+  "active": "4d19767c3f7352a4",
   "lastOpenFiles": [
     "Players/Players.md",
     "Custom items/Custom items.md",
