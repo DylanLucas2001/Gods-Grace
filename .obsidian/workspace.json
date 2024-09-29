@@ -40,8 +40,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf700be0a73b537e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Players/Players.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,10 +205,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "69522ab9573fb661",
+  "active": "bf700be0a73b537e",
   "lastOpenFiles": [
-    "Players/Bo - Alya (Barbarian).md",
     "Players/Players.md",
+    "Players/Bo - Alya (Barbarian).md",
     "Custom items/Custom items.md",
     "Players/Yaseen- Greed(Warforged).md",
     "Players/Váli - Fernweh(Wizard).md",
