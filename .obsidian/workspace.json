@@ -45,8 +45,12 @@
             "id": "bf700be0a73b537e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "FINISH Point.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FINISH Point.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FINISH Point.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "FINISH Point.md"
+              }
             }
           },
           {
@@ -207,6 +215,7 @@
   },
   "active": "bf700be0a73b537e",
   "lastOpenFiles": [
+    "FINISH Point.md",
     "Players/Players.md",
     "Players/Bo - Alya (Barbarian).md",
     "Custom items/Custom items.md",
@@ -235,7 +244,6 @@
     "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items/Tankard Of Sobriety.md",
     "Custom items/Magic items/Socks Of Finding.md",
-    "Custom items/Magic items/Bell of invicibility.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
