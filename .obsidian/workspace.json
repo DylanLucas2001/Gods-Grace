@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Bo - Alya (Barbarian).md",
+                "file": "Players/Players.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Bo - Alya (Barbarian).md",
+                "file": "Players/Players.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Bo - Alya (Barbarian).md"
+                "file": "Players/Players.md"
               }
             }
           },
@@ -235,7 +235,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "4d19767c3f7352a4",
+  "active": "d69a617eadf69649",
   "lastOpenFiles": [
     "Players/Players.md",
     "Custom items/Custom items.md",
