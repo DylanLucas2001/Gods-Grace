@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "56c80c9728581c91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "bcbe118db6d97b50",
             "type": "leaf",
             "state": {
@@ -74,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -253,7 +266,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "bf700be0a73b537e",
+  "active": "56c80c9728581c91",
   "lastOpenFiles": [
     "FINISH Point.md",
     "Players/Players.md",
