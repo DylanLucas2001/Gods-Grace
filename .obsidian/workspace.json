@@ -39,38 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Players.md",
+                "file": "Players/Váli - Fernweh(Wizard).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Players"
-            }
-          },
-          {
-            "id": "bf700be0a73b537e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FINISH Point.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FINISH Point"
-            }
-          },
-          {
-            "id": "56c80c9728581c91",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Váli - Fernweh(Wizard)"
             }
           },
           {
@@ -86,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -256,6 +230,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -266,37 +241,37 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "56c80c9728581c91",
+  "active": "d69a617eadf69649",
   "lastOpenFiles": [
+    "Plot/Age Of God's Grace.md",
+    "World/World.md",
+    "World/Countries/Countries.md",
+    "World/Countries/Brania/Brania.md",
+    "Azgaar.png",
+    "Eagrorest.md",
+    "tijdelijke notes.md",
+    "Untitled.md",
+    "Pasted image 20231025115748.png",
     "FINISH Point.md",
-    "Players/Players.md",
+    "Players/Váli - Fernweh(Wizard).md",
+    "Plot/Session 3/Session 3.md",
     "Players/Bo - Alya (Barbarian).md",
     "Custom items/Custom items.md",
+    "Players/Players.md",
     "Players/Yaseen- Greed(Warforged).md",
-    "Players/Váli - Fernweh(Wizard).md",
     "Players/Robbe - Damu (Monk).md",
     "Players/Ortwin - Marben (rogue).md",
     "Players/Dries - Thormin (Bard).md",
-    "World/World.md",
-    "Untitled.md",
-    "tijdelijke notes.md",
-    "Pasted image 20231025115748.png",
-    "Azgaar.png",
-    "Eagrorest.md",
-    "Plot/Session 3/Session 3.md",
     "Custom items/Magic items/Bag of substantial whimsy.md",
     "Plot/Session 5/Session 5.md",
     "Plot/Session 5",
     "Plot/Session 4/Session 4.md",
     "NPC's/Horace Colfield.md",
     "Plot/Session 1 Start.md",
-    "Plot/Age Of God's Grace.md",
-    "World/Countries/Countries.md",
     "NPC's/Najara(traveling magic merchant).md",
     "Custom items/Magic items/Gilded Lilly.md",
     "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items/Tankard Of Sobriety.md",
-    "Custom items/Magic items/Socks Of Finding.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
