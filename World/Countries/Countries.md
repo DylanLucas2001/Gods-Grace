@@ -10,7 +10,7 @@ Dit voornamelijk wegens de wrede en zelf destructieve manier waarop Alanus de la
 Een principality onder leiding van [[Veld Randulfus]] .  
 
 Na een territorium gekregen te hebben van zijn vader [[Alanus Randulfus]] aan de noorder rand van het land( in de hoop dat Artus zou stoppen zich te bemoeien met zijn vader's politieke handelingen) heeft Artus zijn politieke kennis en charisma gebruikt om andere dukes  naar zijn kant over te halen en een opstand te organiseren. Dit eindigde met de vorming van de Principality Of Veld.
-Hierdoor zijn er dan natuurlijk ook veel spanningen tussen de Veld en [[World#Duchy Of Midurth|Mirdith]].
+Hierdoor zijn er dan natuurlijk ook veel spanningen tussen de Veld en [[World#Duchy Of Midurth|Mirduth]].
 
 ### [[Free Territory Of Winfalia]]
 Een collectie van onafhankelijke steden/dorpen.
