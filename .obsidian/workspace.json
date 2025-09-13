@@ -11,12 +11,14 @@
             "id": "69522ab9573fb661",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Azgaar.png"
+                "file": "World/World.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Azgaar"
+              "icon": "lucide-file",
+              "title": "World"
             }
           },
           {
@@ -216,9 +218,9 @@
   },
   "active": "69522ab9573fb661",
   "lastOpenFiles": [
+    "Azgaar.png",
     "World/Countries/Countries.md",
     "World/Countries/Clifront/Clifront.md",
-    "Azgaar.png",
     "World/World.md",
     "World/Countries/Brania/Brania.md",
     "Players/Váli - Fernweh(Wizard).md",
@@ -244,7 +246,6 @@
     "Plot/Session 1 Start.md",
     "NPC's/Najara(traveling magic merchant).md",
     "Custom items/Magic items/Gilded Lilly.md",
-    "Custom items/Magic items/Tome of Cat.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
