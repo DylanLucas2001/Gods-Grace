@@ -11,26 +11,12 @@
             "id": "69522ab9573fb661",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Players/Players.md",
-                "mode": "source",
-                "source": false
+                "file": "Azgaar.png"
               },
-              "icon": "lucide-file",
-              "title": "Players"
-            }
-          },
-          {
-            "id": "4d19767c3f7352a4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.6.7"
+              "icon": "lucide-image",
+              "title": "Azgaar"
             }
           },
           {
@@ -46,21 +32,8 @@
               "icon": "lucide-file",
               "title": "Countries"
             }
-          },
-          {
-            "id": "bcbe118db6d97b50",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,14 +214,15 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d69a617eadf69649",
+  "active": "69522ab9573fb661",
   "lastOpenFiles": [
-    "World/World.md",
     "World/Countries/Countries.md",
+    "World/Countries/Clifront/Clifront.md",
+    "Azgaar.png",
+    "World/World.md",
     "World/Countries/Brania/Brania.md",
     "Players/Váli - Fernweh(Wizard).md",
     "Plot/Age Of God's Grace.md",
-    "Azgaar.png",
     "Eagrorest.md",
     "tijdelijke notes.md",
     "Untitled.md",
@@ -271,7 +245,6 @@
     "NPC's/Najara(traveling magic merchant).md",
     "Custom items/Magic items/Gilded Lilly.md",
     "Custom items/Magic items/Tome of Cat.md",
-    "Custom items/Magic items/Tankard Of Sobriety.md",
     "Custom items/Magic items",
     "Custom items",
     "Plot/Session 4",
