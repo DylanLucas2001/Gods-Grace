@@ -68,6 +68,12 @@ Deze warrior/scholar verhouding zorgt dat alle beslissingen optimaal zijn vanuit
 ### Fharein Commonwealth
 Een democratie geleid door een parlement.
 
-Is omsingeld door onvriendelijke staten([[World#Ethian Empire|Ethian Empire]] en [[World#Grand Duchy Of Mythspelia|Mythspelia]]) waardoor handel en diplomatie moeilijk zijn. 
+Is omsingeld door onvriendelijke staten waardoor handel en diplomatie moeilijk zijn. 
 ### Darn Moldir
 Een dwergen stad staat die een enorme hoeveelheid grondstoffen produceert en verantwoordelijk is voor de meeste van de geavanceerde technologie. 
+
+## Benegroth
+Een protectorate van het Ethian empire.
+
+## Aj'Snaga
+
